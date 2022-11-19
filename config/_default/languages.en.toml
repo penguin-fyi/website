@@ -1,0 +1,25 @@
+languageCode = "en-us"
+languageName = "English (US)"
+displayName = ":flag-us:"
+isoCode = "en-US"
+weight = 1
+rtl = false
+
+title = "PENGUIN"
+#logo = "/images/penguin-logo.svg"
+description = "A light-weight, general-purpose Desktop Environment for Arch Linux"
+copyright = "&copy; 2019-2022 PENGUIN"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Jeff"
+  image = "/images/spider-avatar.jpg"
+  headline = ""
+  bio = ""
+  links = [
+    #{ twitter = "https://twitter.com/" },
+    #{ facebook = "https://facebook.com/" },
+    #{ linkedin = "https://linkedin.com/" },
+    #{ youtube = "https://youtube.com/" },
+  ]
