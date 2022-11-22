@@ -1,9 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: false
+summary: ""
 showDate: false
 showAuthor: false
+showSummary: true
+showReadingTime: true
 showPagination: false
+draft: true
 ---
 

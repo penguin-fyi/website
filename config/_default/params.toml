@@ -13,11 +13,9 @@ enableSearch = true
 enableCodeCopy = true
 
 mainSections = ["news"]
-# robots = ""
 
 [header]
-  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
-  #logo = "/images/penguin-logo.svg"
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
   showTitle = true
 
 [footer]
@@ -47,28 +45,16 @@ mainSections = ["news"]
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = true
-  showSummary = false
   showTableOfContents = true
   showTaxonomies = false
   groupByYear = false
   paginationWidth = 1
 
+[docs.list]
+    showSummary = true
+
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
-
-[taxonomy]
-  showTermCount = true
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""

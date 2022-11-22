@@ -1,9 +1,13 @@
 ---
 title: "Installation"
 date: 2021-01-22T21:24:44-06:00
-draft: false
+summary: "Instructions for installing PENGUIN"
 showDate: false
 showAuthor: false
+showSummary: true
+showReadingTime: true
+showPagination: false
+draft: false
 ---
 
 There are currently several ways to install the PENGUIN Desktop Environment.

@@ -1,9 +1,13 @@
 ---
 title: "Components"
 date: 2021-01-22T21:24:44-06:00
-draft: false
+summary: "List of the projects components"
 showDate: false
 showAuthor: false
+showSummary: true
+showReadingTime: true
+showPagination: false
+draft: false
 ---
 
 ## Build
